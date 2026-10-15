@@ -26,13 +26,13 @@ Main table `DbMusica` and the older source lists it was built from.
 
 ## Technology
 
-Microsoft Access 2000–2003 format (.mdb), VBA.
+db, 2000–2003 format (.mdb), VBA.
 
 ## Repository contents
 
 | Path | Content |
 |---|---|
-| `database/` | The Access application, emptied of all data. |
+| `database/` | The database application, emptied of all data. |
 | `source/` | Plain-text export (UTF-8) of forms, reports, macros, VBA modules (`SaveAsText`) and of the SQL of every query. |
 | `docs/schema.md` | Tables and fields. |
 
@@ -42,8 +42,8 @@ The database is published **empty**: every table has been emptied and the file c
 
 ## Related repositories
 
-- [sheet-music-editions-inventory-access](https://github.com/massimosbarbaro/sheet-music-editions-inventory-access)
-- [music-library-catalogue-access](https://github.com/massimosbarbaro/music-library-catalogue-access)
+- [sheet-music-editions-inventory-db](https://github.com/massimosbarbaro/sheet-music-editions-inventory-db)
+- [music-library-catalogue-db](https://github.com/massimosbarbaro/music-library-catalogue-db)
 
 ## How to cite
 
